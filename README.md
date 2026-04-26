@@ -1,7 +1,5 @@
 # Retail CRM Customer Tracker
 
-Yeni mezun/YBS + retail satış deneyimini göstermek için hazırlanmış basit bir CRM müşteri takip projesi.
-
 ## Özellikler
 - Müşteri ekleme
 - Müşteri listeleme
