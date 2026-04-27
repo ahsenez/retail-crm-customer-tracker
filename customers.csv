@@ -1,0 +1,4 @@
+id,name,phone,email,segment,favorite_category,last_contact_date,notes
+1,Ayşe Demir,05550000001,ayse@example.com,VIP,Denim,2026-04-26,Yeni sezon ürünleriyle ilgileniyor
+2,Elif Kaya,05550000002,elif@example.com,Regular,Outerwear,2026-04-26,İndirim döneminde aranacak
+3,Zeynep Arslan,05550000003,zeynep@example.com,New,Accessories,2026-04-26,İlk alışverişini yaptı
