@@ -28,5 +28,7 @@ git remote add origin https://github.com/KULLANICI-ADIN/retail-crm-customer-trac
 git push -u origin main
 ```
 
-## Proje Amacı
-Bu proje retail satış danışmanlığı, müşteri ilişkileri yönetimi ve temel yazılım geliştirme becerilerini birleştirmek için hazırlanmıştır.
+## Future Improvements
+- Login system
+- Dashboard
+- Sales reports
